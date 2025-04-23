@@ -2,10 +2,10 @@
 /*
    New Perspectives on HTML5 and CSS3, 8th Edition
    Tutorial 7
-   Coding Challenge 3
+   Coding Challenge 4
 
 
-   Filename: formsubmit.js
+   Filename: finalsubmission.js
 
    Purpose: The purpose of this program is to simply report on a
             successful completition of a valid Web form.
